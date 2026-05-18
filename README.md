@@ -50,18 +50,11 @@ PostulaPe/
 
 ---
 
-## Capturas del Sistema
+## Presentación del Proyecto
 
-### Login
-_Agregar captura aquí_
+📄 Ver presentación completa del sistema:
 
-### Dashboard Principal
-_Agregar captura aquí_
-
-### Gestión de Convocatorias
-_Agregar captura aquí_
-
----
+[SistemaReclutamiento](docs/presentacion/SistemaReclutamiento.pptx)
 
 ## Instalación
 
